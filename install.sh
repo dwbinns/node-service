@@ -19,6 +19,7 @@ User=$user
 StandardOutput=inherit
 StandardError=inherit
 Restart=always
+AmbientCapabilities=CAP_NET_BIND_SERVICE
 
 [Install]
 WantedBy=multi-user.target
