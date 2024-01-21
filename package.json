@@ -1,6 +1,7 @@
 {
-    "name": "node-service",
+    "name": "@dwbinns/node-service",
     "version": "1.0.0",
     "license": "MIT",
-    "bin": "install.sh"
+    "bin": "install.js",
+    "type": "module"
 }
