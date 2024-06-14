@@ -2,6 +2,9 @@
     "name": "@dwbinns/node-service",
     "version": "1.1.0",
     "license": "MIT",
-    "bin": "install.js",
-    "type": "module"
+    "bin": {
+        "node-service": "install.js"
+    },
+    "type": "module",
+    "scripts": {}
 }
