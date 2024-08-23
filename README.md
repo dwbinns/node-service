@@ -17,9 +17,9 @@ Add this to package.json:
     },
     "scripts": {
         "start": "node-service start",
-        "install": "node-service install",
-        "uninstall": "node-service uninstall",
-        "journal": "node-service journal"
+        "install-service": "node-service install",
+        "uninstall-service": "node-service uninstall",
+        "journal-service": "node-service journal"
     }
 ```
 
