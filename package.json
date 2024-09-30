@@ -7,5 +7,9 @@
     },
     "exports": "./index.js",
     "type": "module",
-    "scripts": {}
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dwbinns/node-service.git"
+    }
 }
